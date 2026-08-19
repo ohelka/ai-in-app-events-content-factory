@@ -1,3 +1,5 @@
+![AI-Powered Content Factory for App Store In-App Events](images/cover.svg)
+
 # AI-Powered Content Factory for App Store In-App Events
 
 A reusable AI-assisted workflow for producing App Store In-App Events—from planning and localization to creative production, asset handoff, and featuring copy.
